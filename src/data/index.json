@@ -1,0 +1,88 @@
+{
+    "skils":[
+        {
+            "id": "1",
+            "src": "./images/HTML-removebg-preview (1).png",
+            "title": "HTML"
+          
+          },
+          {
+            "id": "2",
+            "src": "./images/CSS.jpg",
+            "title": "CSS"
+           
+          },
+          {
+            "id": "3",
+            "src": "images/TILWIND.png",
+            "title": "Tailwind CSS"
+
+          },
+          {
+            "id": "3",
+            "src": "images/Bootstrap.png",
+            "title": "BOOTSTRAP"
+
+          },
+          {
+            "id": "4",
+            "src": "images/JS.png",
+            "title": "JAVASCRIPT"
+          }
+          ,
+          {
+            "id": "4",
+            "src": "images/php-removebg-preview.png",
+            "title": "PHP"
+          }
+          ,
+          {
+            "id": "4",
+            "src": "images/REACT.png",
+            "title": "REACT JS "
+          }
+          ,
+          {
+            "id": "4",
+            "src": "images/laravel.png",
+            "title": "LARAVEL"
+          }
+          ,
+          {
+            "id": "4",
+            "src": "images/SQL.png",
+            "title": "SQL"
+          }
+          ,
+          {
+            "id": "4",
+            "src": "images/mongodb.png",
+            "title": "MONGODB"
+          }
+          , {
+            "id": "4",
+            "src": "images/git_img.png",
+            "title": "GIT"
+          }
+    ],
+    "portfolio": [
+        {
+          "id": "1",
+          "src": "./images/platform.jpg",
+          "title": "social media platform",
+          "description": "A video-centric social media platform inspired by Instagram, featuring a User Space for managing profiles and content and an Admin Space for overseeing platform activity and moderation.",
+          "link": "View In Github",
+           "url": "https://github.com/IlhamKaddi/social-media-platform"
+        },
+        {
+            "id": "2",
+            "src": "./images/page eco.jpg",
+            "title": "E-Commerce Page Design",
+            "description": "This is a static e-commerce web page design created using React TypeScript, the page demonstrates a user-friendly and professional design for online shopping platforms",
+            "link": "View In Github",
+            "url": "https://github.com/IlhamKaddi/E-Commerce-Page-Design"
+          }
+    ]
+
+   
+}
